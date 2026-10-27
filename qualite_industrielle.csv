@@ -1,0 +1,51 @@
+﻿ID_Controle,Produit,Ligne_Production,Nb_Produits_Controle,Nb_Defauts,Taux_Defauts_pct,Dimension_mm,Poids_g,Temperature_C,Nb_Non_Conformites,Temps_Controle_min,Cout_Non_Qualite_DH,Resultat
+P001,Produit_A,Ligne_A,444,24,5.41,101.02,487.3,32.0,3,2.2,848,Non conforme
+P002,Produit_B,Ligne_B,157,18,11.46,100.67,510.6,24.2,1,1.2,349,Non conforme
+P003,Produit_C,Ligne_C,307,19,6.19,100.0,519.8,27.6,4,6.9,567,Non conforme
+P004,Produit_D,Ligne_D,236,4,1.69,100.13,494.7,30.5,3,3.2,270,Conforme
+P005,Produit_A,Ligne_E,129,15,11.63,100.5,512.0,29.5,7,7.0,958,Non conforme
+P006,Produit_B,Ligne_A,181,5,2.76,100.23,511.4,27.1,5,4.4,704,Non conforme
+P007,Produit_C,Ligne_B,147,30,20.41,100.02,519.9,28.7,8,6.6,877,Non conforme
+P008,Produit_D,Ligne_C,240,34,14.17,100.45,495.7,29.1,6,1.5,1042,Non conforme
+P009,Produit_A,Ligne_D,476,11,2.31,100.73,513.0,22.8,3,7.3,471,Conforme
+P010,Produit_B,Ligne_E,439,20,4.56,99.82,511.5,19.3,1,7.9,574,Conforme
+P011,Produit_C,Ligne_A,355,31,8.73,100.23,496.4,23.5,3,3.0,737,Non conforme
+P012,Produit_D,Ligne_B,461,4,0.87,100.9,505.6,18.2,4,7.5,430,Conforme
+P013,Produit_A,Ligne_C,284,25,8.8,101.22,490.7,23.3,5,3.2,978,Non conforme
+P014,Produit_B,Ligne_D,89,30,33.71,99.89,482.7,29.0,2,4.7,921,Non conforme
+P015,Produit_C,Ligne_E,308,8,2.6,99.03,481.9,29.5,0,2.6,99,Conforme
+P016,Produit_D,Ligne_A,330,3,0.91,99.05,493.3,22.3,2,1.8,280,Conforme
+P017,Produit_A,Ligne_B,385,33,8.57,99.99,508.2,21.6,7,4.2,1395,Non conforme
+P018,Produit_B,Ligne_C,417,9,2.16,99.52,487.6,20.1,2,4.1,391,Conforme
+P019,Produit_C,Ligne_D,198,8,4.04,99.25,492.3,28.5,3,7.4,345,Conforme
+P020,Produit_D,Ligne_E,272,30,11.03,100.26,519.7,24.4,2,7.0,931,Non conforme
+P021,Produit_A,Ligne_A,177,14,7.91,98.54,491.0,24.7,3,7.2,439,Non conforme
+P022,Produit_B,Ligne_B,322,35,10.87,99.35,481.2,22.8,4,7.5,888,Non conforme
+P023,Produit_C,Ligne_C,498,32,6.43,99.68,483.0,23.0,7,3.5,1240,Non conforme
+P024,Produit_D,Ligne_D,201,2,1.0,98.83,500.8,31.5,4,5.4,261,Conforme
+P025,Produit_A,Ligne_E,417,23,5.52,101.44,516.4,28.7,3,3.5,910,Non conforme
+P026,Produit_B,Ligne_A,346,13,3.76,100.05,504.4,27.9,2,2.9,473,Conforme
+P027,Produit_C,Ligne_B,163,18,11.04,101.04,485.7,26.5,1,2.7,547,Non conforme
+P028,Produit_D,Ligne_C,475,31,6.53,101.36,510.7,20.0,8,6.1,1386,Non conforme
+P029,Produit_A,Ligne_D,129,7,5.43,99.53,509.2,27.3,3,7.7,293,Non conforme
+P030,Produit_B,Ligne_E,295,14,4.75,101.42,490.2,24.7,6,4.9,726,Non conforme
+P031,Produit_C,Ligne_A,181,30,16.57,101.02,511.6,28.3,2,4.8,828,Non conforme
+P032,Produit_D,Ligne_B,223,8,3.59,100.17,500.2,25.4,3,6.2,516,Conforme
+P033,Produit_A,Ligne_C,241,12,4.98,99.01,494.8,30.1,7,5.3,597,Non conforme
+P034,Produit_B,Ligne_D,415,17,4.1,99.77,487.5,31.6,3,4.0,649,Conforme
+P035,Produit_C,Ligne_E,476,12,2.52,99.93,488.7,21.8,2,4.5,472,Conforme
+P036,Produit_D,Ligne_A,448,33,7.37,98.85,484.5,18.1,5,6.1,1116,Non conforme
+P037,Produit_A,Ligne_B,81,22,27.16,101.24,487.5,25.5,4,5.7,1024,Non conforme
+P038,Produit_B,Ligne_C,186,6,3.23,100.81,511.3,20.1,5,6.1,488,Non conforme
+P039,Produit_C,Ligne_D,287,15,5.23,101.03,504.5,25.0,1,6.2,316,Non conforme
+P040,Produit_D,Ligne_E,221,26,11.76,99.8,498.8,19.4,5,6.1,963,Non conforme
+P041,Produit_A,Ligne_A,279,10,3.58,101.25,519.0,29.5,1,6.7,224,Conforme
+P042,Produit_B,Ligne_B,152,1,0.66,100.23,516.8,30.7,7,5.4,487,Non conforme
+P043,Produit_C,Ligne_C,422,11,2.61,100.29,516.5,20.4,1,5.0,295,Conforme
+P044,Produit_D,Ligne_D,262,32,12.21,99.48,490.1,29.2,8,3.5,1503,Non conforme
+P045,Produit_A,Ligne_E,423,35,8.27,99.21,485.3,20.0,3,7.8,979,Non conforme
+P046,Produit_B,Ligne_A,375,6,1.6,99.78,496.1,18.7,6,7.8,806,Non conforme
+P047,Produit_C,Ligne_B,146,12,8.22,99.88,519.7,26.9,2,6.4,383,Non conforme
+P048,Produit_D,Ligne_C,167,20,11.98,100.43,507.0,19.4,8,6.4,1055,Non conforme
+P049,Produit_A,Ligne_D,196,12,6.12,100.67,516.9,26.0,3,5.4,632,Non conforme
+P050,Produit_B,Ligne_E,230,12,5.22,101.44,501.3,29.3,0,1.4,336,Non conforme
